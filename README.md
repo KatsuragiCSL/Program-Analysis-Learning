@@ -38,4 +38,3 @@ This is a place to share my learning on program analysis related things. This is
 | [The engineering behind the gnireenigne](https://frida.re/slides/osdc-2015-the-engineering-behind-the-reverse-engineering.pdf)        |       frida internals |       Not started     |
 | [ios debugger challenge](https://github.com/rustymagnet3000/ios_debugger_challenge)   |       iOS Anti Frida bypass challs    |       Not started     |
 | [GitHub Security Lab CTF](https://securitylab.github.com/ctf/)        |       GHSL CTF, including challenges using CodeQL     |       Not started     |
-
