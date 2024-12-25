@@ -35,7 +35,9 @@ This is a place to share my learning on program analysis related things. This is
 | [Bug Hunting with Static Code Analysis](https://www.youtube.com/watch?v=Sb011qfbMkQ)  |       binary analysis, bug hunting    |       Not started     |
 | [Using Static Binary Analysis To Find Vulnerabilities And Backdoors In Firmware](https://www.youtube.com/watch?v=Fi_S2F7ud_g) |       binary analysis, bug hunting    |       Not started     |
 | [Frida handbook](https://learnfrida.info/)      | Frida      | Not started  |
-| [frida-detection](https://github.com/muellerberndt/frida-detection)   |       anti-frida      |       Not started     |
 | [The engineering behind the gnireenigne](https://frida.re/slides/osdc-2015-the-engineering-behind-the-reverse-engineering.pdf)        |       frida internals |       Not started     |
 | [ios debugger challenge](https://github.com/rustymagnet3000/ios_debugger_challenge)   |       iOS Anti Frida bypass challs    |       Not started     |
 | [GitHub Security Lab CTF](https://securitylab.github.com/ctf/)        |       GHSL CTF, including challenges using CodeQL     |       Not started     |
+| | |
+| [frida-detection](https://github.com/muellerberndt/frida-detection)   |       anti-frida      |       Not started     |
+| [关于反调试反反调试那些事](https://iosre.com/t/%E5%85%B3%E4%BA%8E%E5%8F%8D%E8%B0%83%E8%AF%95%E5%8F%8D%E5%8F%8D%E8%B0%83%E8%AF%95%E9%82%A3%E4%BA%9B%E4%BA%8B/8179)	|	anti-analysis in iOS	|	Not started	|
