@@ -28,6 +28,7 @@ This is a place to share my learning on program analysis related things. This is
 | [A Review of Modern Code Deobfuscation Techniques](https://github.com/arnaugamez/talks/tree/main/2020/02_hackinthebox-sin), [Video](https://www.youtube.com/watch?v=tYqXStZv1W4)      | (de)obfuscation      | Not started   |
 | [Hands-on Binary Deobfuscation - From Symbolic Execution to Program Synthesis](https://github.com/arnaugamez/talks/tree/main/2022/01_r0-workshop), [Video](https://vimeo.com/723157684)      | (de)obfuscation      | Not started   |
 | [Deobfuscation: recovering an OLLVM-protected program](https://blog.quarkslab.com/deobfuscation-recovering-an-ollvm-protected-program.html)   |       (de)obfuscation      | Not started   |
+| [Angr Control Flow Deobfuscation](https://research.openanalysis.net/angr/symbolic%20execution/deobfuscation/research/2022/03/26/angr_notes.html#Associating-A-STATE-With-Each-Original-Basic-Block)	|	deobfuscation	|	Not started	|
 | [Analysis of Virtualization-based Obfuscation](https://www.youtube.com/watch?v=b6udPT79itk)   |       Deobfuscation   |       Not started     |
 | [How Triton can help to reverse virtual machine based software protections](https://www.youtube.com/watch?v=Fk7bF94sy9U)      |       Not started     |
 | [Smashing Ethereum Smart Contracts for Fun and ACTUAL Profit](https://www.youtube.com/watch?v=iqf6epACgds)    |       Smart contract hacking by program analysis      |       Not started     |
